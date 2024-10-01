@@ -1,0 +1,15 @@
+# Sistema de Autenticação Simples
+
+Este é um programa que implementa um sistema simples de autenticação. O usuário fornece seu email e uma senha, e o programa verifica se estão corretos.
+
+## Funcionalidades
+
+- Permite ao usuário inserir seu email e senha.
+- Verifica se o email e a senha estão corretos.
+- Ativa o sistema se as credenciais estiverem corretas.
+
+## Como Usar
+
+1. Clone o repositório:
+   bash
+   git clone https://github.com/seu_usuario/seu_repositorio.git

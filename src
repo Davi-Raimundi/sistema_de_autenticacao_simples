@@ -1,0 +1,47 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		const cadeia senha="10",senha2="20",senha3="30"
+		const cadeia  email="davi"
+		cadeia gmail
+		cadeia n1 //n=senha 
+
+		escreva("\n Qual seu email ? ")
+		leia(gmail)
+
+		se (gmail == email){
+		
+		escreva("\n Senha : ")
+		leia(n1)
+
+		se((n1 == senha) ou (n1 == senha2) ou ( n1 == senha3) e (n1 !=senha)){
+	
+			escreva("\n Sistema foi ativado.")
+		}
+		senao
+		{
+			escreva("\n O Sistema não foi ativado.")
+		}}
+		senao
+		{
+			escreva("Digite o email correto.")
+		}
+		
+		
+			
+			
+			
+			
+			
+		
+	     
+			
+			
+		
+		
+		
+		
+	}
+}

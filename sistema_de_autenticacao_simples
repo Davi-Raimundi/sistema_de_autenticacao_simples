@@ -1,0 +1,9 @@
+ Sistema de Autenticação Simples
+
+Este projeto consiste em um sistema simples de autenticação que solicita ao usuário um email e uma senha. O programa verifica se o email está correto e se a senha fornecida corresponde a uma das senhas válidas. Se ambos estiverem corretos, o sistema é ativado; caso contrário, exibe uma mensagem de erro.
+
+Funcionalidades:
+
+O usuário insere seu email.
+O usuário insere uma senha.
+O sistema verifica se o email e a senha estão corretos e ativa o sistema se tudo estiver certo.

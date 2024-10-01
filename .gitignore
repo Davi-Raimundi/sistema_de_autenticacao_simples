@@ -1,0 +1,19 @@
+
+### .gitignore
+
+```plaintext
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de compilação
+*.o
+*.exe
+*.class
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios temporários
+tmp/
+temp/
